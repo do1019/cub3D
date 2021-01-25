@@ -1,0 +1,19 @@
+R 500 500
+NO textures/kawauso.xpm
+SO textures/neko.xpm
+WE textures/purplestone.xpm
+EA textures/bluestone.xpm
+
+S textures/barrel.xpm
+F 255,255,255
+C 0,255,255
+
+11111111111
+10200002001
+10000000001
+10000000221
+12200000001
+10000N00001
+10020000201
+12000000001
+11111111111
