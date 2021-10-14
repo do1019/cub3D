@@ -14,7 +14,7 @@ make
 ```c:title
 ./cub3D cubfiles/*.cub --save
 ```
-## The cubfiles can be edited.<br>
+## cubfiles can be edited.<br>
 
 | identifier | information |
 | :-- | :-- |
